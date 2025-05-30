@@ -1,4 +1,4 @@
-# 🌄 Chile Tours - Sistema de Gestão de Excursões
+#  🌄 Chile Tours – Sistema de Gestão de Excursões no Chile
 
 *Uma solução completa e moderna para gestão de experiências turísticas no Chile* ✈️
 
